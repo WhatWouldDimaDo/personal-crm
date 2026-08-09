@@ -1,0 +1,38 @@
+{
+  "+15555550101": {
+    "name": "Jordan Ashby",
+    "resourceName": "people/c1111111111111111111"
+  },
+  "+15555550102": {
+    "name": "Sam Ashby",
+    "resourceName": "people/c2222222222222222222"
+  },
+  "+15555550103": {
+    "name": "Morgan Ellis",
+    "resourceName": "people/c3333333333333333333"
+  },
+  "+15555550104": {
+    "name": "Casey Nguyen",
+    "resourceName": "people/c4444444444444444444"
+  },
+  "+15555550105": {
+    "name": "Riley Chen",
+    "resourceName": "people/c5555555555555555555"
+  },
+  "+15555550110": {
+    "name": "Avery Okafor",
+    "resourceName": "people/c6666666666666666666"
+  },
+  "+15555550111": {
+    "name": "Drew Whitfield",
+    "resourceName": "people/c7777777777777777777"
+  },
+  "+15555550112": {
+    "name": "Parker Lindqvist",
+    "resourceName": "people/c8888888888888888888"
+  },
+  "quinn.reyes@example.com": {
+    "name": "Quinn Reyes",
+    "resourceName": "people/c9999999999999999999"
+  }
+}

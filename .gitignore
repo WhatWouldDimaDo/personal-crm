@@ -1,0 +1,34 @@
+# Real personal data — never commit these. If you point config.py at your
+# own real files (see README), these patterns keep them out of git even if
+# you forget --dry-run one day.
+crm_database.json
+crm_database_batch2.json
+gc_phone_index.json
+social_activation_engine.md
+outreach_tracker.json
+events.json
+invite_context.json
+*_results.json
+comm_scan_log_*.json
+social_digest_*.md
+crm_dashboard.html
+*.abcddb
+
+# This repo's own scratch output
+/output/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+
+# Secrets
+.env
+*.pem
+*.key

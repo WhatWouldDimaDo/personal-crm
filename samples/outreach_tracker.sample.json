@@ -1,0 +1,43 @@
+{
+  "threads": [
+    {
+      "id": "thread-001",
+      "name": "Morgan Ellis",
+      "type": "social",
+      "channel": "imessage",
+      "stage": "invited",
+      "last_sender": "them",
+      "last_message_date": "2026-08-02",
+      "next_action": "Suggest a board game night — they mentioned being free weekends",
+      "context": "Reconnected after running into each other downtown in June.",
+      "created": "2026-06-10",
+      "updated": "2026-08-02"
+    },
+    {
+      "id": "thread-002",
+      "name": "Riley Chen",
+      "type": "professional",
+      "channel": "email",
+      "stage": "identified",
+      "last_sender": "me",
+      "last_message_date": "2026-07-15",
+      "next_action": "Follow up if no reply by end of month",
+      "context": "Reached out about a potential referral, no response yet.",
+      "created": "2026-07-15",
+      "updated": "2026-07-15"
+    },
+    {
+      "id": "thread-003",
+      "name": "Casey Nguyen",
+      "type": "social",
+      "channel": "imessage",
+      "stage": "scheduled",
+      "last_sender": "me",
+      "last_message_date": "2026-08-05",
+      "next_action": "Confirm venue two days before",
+      "context": "Locked in a show for next month.",
+      "created": "2026-07-01",
+      "updated": "2026-08-05"
+    }
+  ]
+}

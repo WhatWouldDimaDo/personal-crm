@@ -1,0 +1,164 @@
+{
+  "Jordan Ashby": {
+    "name": "Jordan Ashby",
+    "phone": "+15555550101",
+    "email": "jordan.ashby@example.com",
+    "iMessage_handle": "jordan.alt@example.com",
+    "tier": 1,
+    "tier_label": "Tier-1-Active",
+    "company": "Example Corp",
+    "job_title": "Product Manager",
+    "location": "Springfield, EX",
+    "kids": [
+      "Riley (age 6)"
+    ],
+    "spouse": "Sam Ashby",
+    "birthday": "1988-04-12",
+    "note": "Met through a hiking group; into trail running.",
+    "aliases": [
+      "J-Ash"
+    ],
+    "data_sources": [
+      "phone_master",
+      "imessage",
+      "manual"
+    ],
+    "has_existing_profile": true,
+    "linkedin_connected": true,
+    "last_contact_date": "2026-07-30",
+    "last_platform": "imessage",
+    "last_comm_scan": "2026-08-08",
+    "contact_count_90d": 14,
+    "sms_count": 212,
+    "fb_count": 3,
+    "ig_count": 0,
+    "availability": {
+      "status": "open",
+      "note": "mentioned being free this weekend",
+      "detected": "2026-08-05",
+      "expires": "2026-08-19"
+    }
+  },
+  "Sam Ashby": {
+    "name": "Sam Ashby",
+    "phone": "+15555550102",
+    "email": "sam.ashby@example.com",
+    "iMessage_handle": "",
+    "tier": 1,
+    "tier_label": "Tier-1-Active",
+    "company": "Example Studio",
+    "job_title": "Architect",
+    "location": "Springfield, EX",
+    "kids": [
+      "Riley (age 6)"
+    ],
+    "spouse": "Jordan Ashby",
+    "birthday": "1989-11-02",
+    "note": "Jordan's partner; designs treehouses on the side.",
+    "aliases": [],
+    "data_sources": [
+      "phone_master",
+      "manual"
+    ],
+    "has_existing_profile": true,
+    "linkedin_connected": false,
+    "last_contact_date": "2026-06-14",
+    "last_platform": "in_person",
+    "last_comm_scan": "2026-08-08",
+    "contact_count_90d": 2,
+    "sms_count": 18,
+    "fb_count": 0,
+    "ig_count": 0,
+    "availability": null
+  },
+  "Morgan Ellis": {
+    "name": "Morgan Ellis",
+    "phone": "+15555550103",
+    "email": "morgan.ellis@example.com",
+    "iMessage_handle": "",
+    "tier": 2,
+    "tier_label": "Tier-2-Extended",
+    "company": "",
+    "job_title": "",
+    "location": "Lakeview, EX",
+    "kids": [],
+    "spouse": null,
+    "birthday": "07-19",
+    "note": "College friend, now local again. Into board games.",
+    "aliases": [],
+    "data_sources": [
+      "phone_master"
+    ],
+    "has_existing_profile": false,
+    "linkedin_connected": true,
+    "last_contact_date": "2026-05-01",
+    "last_platform": "imessage",
+    "last_comm_scan": "2026-08-08",
+    "contact_count_90d": 3,
+    "sms_count": 40,
+    "fb_count": 0,
+    "ig_count": 1,
+    "availability": null
+  },
+  "Casey Nguyen": {
+    "name": "Casey Nguyen",
+    "phone": "+15555550104",
+    "email": "casey.nguyen@example.com",
+    "iMessage_handle": "",
+    "tier": 1,
+    "tier_label": "Tier-1-Active",
+    "company": "Example Labs",
+    "job_title": "Engineer",
+    "location": "Springfield, EX",
+    "kids": [
+      "Nova (age 3)"
+    ],
+    "spouse": null,
+    "birthday": "1991-02-28",
+    "note": "Concert buddy — go-to for shows downtown.",
+    "aliases": [],
+    "data_sources": [
+      "phone_master",
+      "imessage"
+    ],
+    "has_existing_profile": true,
+    "linkedin_connected": true,
+    "last_contact_date": "2026-07-20",
+    "last_platform": "imessage",
+    "last_comm_scan": "2026-08-08",
+    "contact_count_90d": 9,
+    "sms_count": 133,
+    "fb_count": 0,
+    "ig_count": 2,
+    "availability": null
+  },
+  "Riley Chen": {
+    "name": "Riley Chen",
+    "phone": "+15555550105",
+    "email": "",
+    "iMessage_handle": "riley.chen@example.com",
+    "tier": 3,
+    "tier_label": "Tier-3-Dormant",
+    "company": "",
+    "job_title": "",
+    "location": "",
+    "kids": [],
+    "spouse": null,
+    "birthday": null,
+    "note": "Former coworker, quarterly catch-up at best.",
+    "aliases": [],
+    "data_sources": [
+      "manual"
+    ],
+    "has_existing_profile": false,
+    "linkedin_connected": false,
+    "last_contact_date": null,
+    "last_platform": null,
+    "last_comm_scan": "2026-08-08",
+    "contact_count_90d": 0,
+    "sms_count": 0,
+    "fb_count": 0,
+    "ig_count": 0,
+    "availability": null
+  }
+}

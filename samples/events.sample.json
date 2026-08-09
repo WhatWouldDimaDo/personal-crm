@@ -1,0 +1,38 @@
+[
+  {
+    "id": "evt-001",
+    "title": "Fake Fest",
+    "date": "2026-09-12",
+    "dateStr": "Sep 12",
+    "venue": "Example Amphitheater",
+    "score": 82,
+    "slots": ["GROUP_NIGHT"],
+    "officialUrl": "https://example.com/events/fake-fest",
+    "urgent": false,
+    "tier": "A"
+  },
+  {
+    "id": "evt-002",
+    "title": "Riverside Family Day",
+    "date": "2026-09-20",
+    "dateStr": "Sep 20",
+    "venue": "Example Riverside Park",
+    "score": 65,
+    "slots": ["FAMILY_OUT"],
+    "officialUrl": "https://example.com/events/riverside-family-day",
+    "urgent": false,
+    "tier": "B"
+  },
+  {
+    "id": "evt-003",
+    "title": "Late Night Jazz Set",
+    "date": "2026-09-13",
+    "dateStr": "Sep 13",
+    "venue": "Example Lounge",
+    "score": 70,
+    "slots": ["DATE_NIGHT"],
+    "ticketUrl": "https://example.com/tickets/late-night-jazz",
+    "urgent": false,
+    "tier": "B"
+  }
+]
