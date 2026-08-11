@@ -1,5 +1,16 @@
 # Personal CRM
 
+> [!CAUTION]
+> **Reference implementation for your own local data.** Most commands default
+> to fake samples, but `comm_scan.py` defaults its system-database inputs to
+> your real macOS Messages, call-history, and Address Book locations. Export
+> the three sandbox variables in the Quickstart before the first run. Keep all
+> real CRM files and generated output outside the repository.
+
+**Start here:** read this overview, follow the sandboxed [Quickstart](#quickstart),
+then use the [technical guide](docs/TECHNICAL_GUIDE.md) for schemas, write
+boundaries, scheduling, privacy choices, and known failure modes.
+
 I built this because I kept losing track of who I hadn't talked to in a while
 — not strangers, close friends. The tools that exist for this are either
 built for salespeople or ask you to re-enter your entire social graph by
@@ -118,7 +129,7 @@ flow first without touching anything real, point those three at somewhere
 empty:
 
 ```bash
-git clone <this-repo>
+git clone https://github.com/WhatWouldDimaDo/personal-crm.git
 cd personal-crm
 
 # Sandbox the system-DB paths so this run touches only samples/, not your
